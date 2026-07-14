@@ -1,0 +1,1 @@
+var e=`https://qoceonncejbvemcgtwsn.supabase.co`,t=`sb_publishable_tfq2N5mE7rFspK9FEmT_bw_Xcv64LU1`;function n(){return{apikey:t,Authorization:`Bearer ${t}`}}export{e as n,n as r,t};
